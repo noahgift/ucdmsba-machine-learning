@@ -1,0 +1,15 @@
+dash_html_components
+dash
+dash_core_components
+dash-renderer
+pylint
+pytest
+pytest-cov
+click
+jupyter
+nbval
+pandas
+pyyaml
+numpy
+bokeh
+jupyterlab
