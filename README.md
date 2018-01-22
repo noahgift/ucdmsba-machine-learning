@@ -8,10 +8,12 @@ Supplemental Class Material for UC Davis MSBA Machine Learning Course
 * [Python Machine Learning:  2nd Edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-## Class Projects/Homework
+## Class Projects
 
 * [Submit Predictions to Titanic:  Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 * [Fork and Do EDA on Social Power NBA Dataset](https://www.kaggle.com/noahgift/social-power-nba)
+
+## Homework Assignments
 
 ## Lecture Jupyter Notebooks
 
