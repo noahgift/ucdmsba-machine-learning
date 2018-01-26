@@ -23,3 +23,6 @@ Supplemental Class Material for UC Davis MSBA Machine Learning Course
 
 ## Learning Path Jupyter Notebook Template
 
+Use this Jupyter Notebook as a starting point to create your own learning path.  Fill in other sources you find, notes, etc.
+
+* [Learning Path Jupyter Notebook Template](https://github.com/noahgift/ucdmsba-machine-learning/blob/master/Learning_Path_Template.ipynb)
