@@ -20,6 +20,7 @@ Supplemental Class Material for UC Davis MSBA Machine Learning Course
 * [Week 1](https://github.com/noahgift/ucdmsba-machine-learning/blob/master/lectures/week1/ML-Week1.ipynb)
 * [Week 2](https://github.com/noahgift/ucdmsba-machine-learning/blob/master/lectures/week2/ML-Week2.ipynb)
 * [Week 3](https://github.com/noahgift/ucdmsba-machine-learning/blob/master/lectures/week3/ML-Week3.ipynb)
+* [Week 4](https://github.com/noahgift/ucdmsba-machine-learning/blob/master/lectures/week4/ML-Week4.ipynb)
 
 ## Learning Path Jupyter Notebook Template
 
